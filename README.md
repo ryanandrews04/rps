@@ -1,2 +1,2 @@
 # rps
-# Rock paper scissors js console project
+# Rock paper scissors js project
